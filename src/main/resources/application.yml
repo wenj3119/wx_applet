@@ -1,0 +1,23 @@
+wx:
+  miniapp:
+    appId: 'wx63f8318b2deb08c8'
+    appSecret: '3051cb6494712466bac822472aa230d5'
+    templates:
+      - id: ''
+        type: 'releaseWithoutSignIn'
+        stationDetails: ''
+        bookingTime: ''
+        bookingStaff: ''
+        checkInTime: ''
+        tipInstruction: ''
+        page: ''
+      - id: '6Bci11EozQriga8JK4X56GqUtbpdhBtJHxvyJk56ygw'
+        type: 'sensorRelease'
+        stationDetails: 'character_string7'
+        bookingTime: 'thing8'
+        bookingStaff: 'thing10'
+        checkInTime: 'thing12'
+        tipInstruction: 'character_string14'
+        page: ''
+server:
+  port: 8080
